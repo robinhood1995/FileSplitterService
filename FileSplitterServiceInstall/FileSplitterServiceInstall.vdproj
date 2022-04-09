@@ -316,15 +316,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:FileSplitterService"
-        "ProductCode" = "8:{86A8767E-F888-4994-9C1B-4397684D84FB}"
-        "PackageCode" = "8:{FF15CB51-4CA1-454A-92BC-D1C6F5B1E098}"
+        "ProductCode" = "8:{CEA7D966-43BA-41A3-9DB9-517BB71E2978}"
+        "PackageCode" = "8:{F2B15F93-3D66-4C1B-AE41-D19541CAD78A}"
         "UpgradeCode" = "8:{A3E553DB-C750-4D95-AD92-141B3554AC8D}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:FALSE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.8.0"
+        "ProductVersion" = "8:1.9.0"
         "Manufacturer" = "8:SFLServicesLLC"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -838,7 +838,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4F2DAE11BC3F48BB9E242FC23ABF2643"
             {
-            "SourcePath" = "8:..\\FileSplitterService\\obj\\Debug\\FileSplitterService.exe"
+            "SourcePath" = "8:..\\FileSplitterService\\obj\\Release\\FileSplitterService.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E3DBF2BDC7454CCEBF879B963E78E04A"
