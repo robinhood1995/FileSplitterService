@@ -76,12 +76,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".github\FUNDING.yml" />
+    <None Include=".github\ISSUE_TEMPLATE.md" />
     <None Include="App.config" />
+    <None Include="Changes.md" />
+    <None Include="License.md" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ProjectInstaller.resx">
